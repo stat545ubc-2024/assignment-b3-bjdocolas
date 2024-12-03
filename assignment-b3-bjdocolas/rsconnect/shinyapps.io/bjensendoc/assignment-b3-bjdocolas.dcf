@@ -5,6 +5,6 @@ account: bjensendoc
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13281170
-bundleId: 9457303
+bundleId: 9457367
 url: https://bjensendoc.shinyapps.io/assignment-b3-bjdocolas/
 version: 1

@@ -4,7 +4,7 @@
 This repo was created for UBC's STAT545 course. It contains information and files for assignment B-3 and B-4.
 
 ## What can I find in this repo?
-[This](https://bjensendoc.shinyapps.io/assignment-b3-bjdocolas/) is the link to a running instance of my app that was created for assignment-b3. [This](https://bjensendoc.shinyapps.io/assignment-b3-bjdocolas/) is the link to a running instance of my app that was updated for assignment-b4 for STAT545. 
+[This](https://bjensendoc.shinyapps.io/assignment-b3-bjdocolas/) is the link to a running instance of my app that was created for assignment-b3. [This](https://bjensendoc.shinyapps.io/assignment-b4-bjdocolas/) is the link to a running instance of my app that was updated for assignment-b4 for STAT545. 
 
 In the [assignment-b3-bjdocolas folder](https://github.com/stat545ubc-2024/assignment-b3-bjdocolas/tree/main/assignment-b3-bjdocolas) you will find the [app.R code](https://github.com/stat545ubc-2024/assignment-b3-bjdocolas/blob/main/assignment-b3-bjdocolas/app.R) for the shiny app, with comments on features added for assignment-b3 and those added for assignment-b4. You will also find the [.csv dataset file](https://github.com/stat545ubc-2024/assignment-b3-bjdocolas/blob/main/assignment-b3-bjdocolas/dataset/amazon_bestsellers.csv). The app.R code will be important for understanding which features are included in the shiny app for this assignment. The shinyapp.io link can also be found here under the [rsconnect folder](https://github.com/stat545ubc-2024/assignment-b3-bjdocolas/tree/main/assignment-b3-bjdocolas/rsconnect/shinyapps.io/bjensendoc).
 
